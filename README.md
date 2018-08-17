@@ -3,5 +3,4 @@ This project implements the backtracking search algorithm with forward checking,
 
 These maps were obtained in the experiments, neighboring regions do not have the same color.
 
-
-![alt tag](https://s31.postimg.org/cq2t4ajpn/Backtracking.png)
+![alt text](https://github.com/roquelopez/backtracking_search/blob/master/maps.png)
